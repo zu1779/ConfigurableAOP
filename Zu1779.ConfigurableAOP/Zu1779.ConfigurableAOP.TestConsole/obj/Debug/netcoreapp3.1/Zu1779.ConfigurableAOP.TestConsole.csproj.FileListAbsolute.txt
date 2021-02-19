@@ -1,0 +1,16 @@
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\bin\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.exe
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\bin\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.deps.json
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\bin\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.runtimeconfig.json
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\bin\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.runtimeconfig.dev.json
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\bin\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.dll
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\bin\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.pdb
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\bin\Debug\netcoreapp3.1\LightInject.dll
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\obj\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.csprojAssemblyReference.cache
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\obj\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.AssemblyInfoInputs.cache
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\obj\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.AssemblyInfo.cs
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\obj\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.csproj.CoreCompileInputs.cache
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\obj\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.csproj.CopyComplete
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\obj\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.dll
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\obj\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.pdb
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\obj\Debug\netcoreapp3.1\Zu1779.ConfigurableAOP.TestConsole.genruntimeconfig.cache
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP.TestConsole\bin\Debug\netcoreapp3.1\LightInject.Interception.dll

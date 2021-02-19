@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.TestConsole\\Zu1779.ConfigurableAOP.TestConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.TestConsole\\Zu1779.ConfigurableAOP.TestConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.TestConsole\\Zu1779.ConfigurableAOP.TestConsole.csproj",
+        "projectName": "Zu1779.ConfigurableAOP.TestConsole",
+        "projectPath": "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.TestConsole\\Zu1779.ConfigurableAOP.TestConsole.csproj",
+        "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
+        "outputPath": "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.TestConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.csproj": {
+                "projectPath": "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "LightInject": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "LightInject.Interception": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.csproj",
+        "projectName": "Zu1779.ConfigurableAOP",
+        "projectPath": "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.csproj",
+        "packagesPath": "C:\\Users\\mauro\\.nuget\\packages\\",
+        "outputPath": "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mauro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "LightInject.Interception": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

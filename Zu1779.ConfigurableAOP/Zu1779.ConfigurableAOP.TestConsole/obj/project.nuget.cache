@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "qee9xkOAQRtCvHfMwxkzGSITNKxugk/kDkwI8dbQ90dpSO/8n14mNEVq1yG8kE5bS3Xdpuu1iGBX7RpPZAMUtQ==",
+  "success": true,
+  "projectFilePath": "C:\\CodeRepository\\Projects\\ConfigurableAOP\\Zu1779.ConfigurableAOP\\Zu1779.ConfigurableAOP.TestConsole\\Zu1779.ConfigurableAOP.TestConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauro\\.nuget\\packages\\lightinject\\6.4.0\\lightinject.6.4.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\lightinject.interception\\2.0.3\\lightinject.interception.2.0.3.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\mauro\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

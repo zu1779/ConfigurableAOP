@@ -1,0 +1,9 @@
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\bin\Debug\netstandard2.1\Zu1779.ConfigurableAOP.deps.json
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\bin\Debug\netstandard2.1\Zu1779.ConfigurableAOP.dll
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\bin\Debug\netstandard2.1\Zu1779.ConfigurableAOP.pdb
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\obj\Debug\netstandard2.1\Zu1779.ConfigurableAOP.csprojAssemblyReference.cache
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\obj\Debug\netstandard2.1\Zu1779.ConfigurableAOP.AssemblyInfoInputs.cache
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\obj\Debug\netstandard2.1\Zu1779.ConfigurableAOP.AssemblyInfo.cs
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\obj\Debug\netstandard2.1\Zu1779.ConfigurableAOP.csproj.CoreCompileInputs.cache
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\obj\Debug\netstandard2.1\Zu1779.ConfigurableAOP.dll
+C:\CodeRepository\Projects\ConfigurableAOP\Zu1779.ConfigurableAOP\Zu1779.ConfigurableAOP\obj\Debug\netstandard2.1\Zu1779.ConfigurableAOP.pdb
